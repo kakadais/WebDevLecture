@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "345c062113d1c435",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "강의자료.md",
                 "mode": "source",
                 "source": false
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "강의자료.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "강의자료.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "강의자료.md"
+                "file": "README.md"
               }
             }
           },
@@ -157,8 +169,8 @@
   },
   "active": "be1bb550d148d455",
   "lastOpenFiles": [
-    "README.md",
     "강의자료.md",
+    "README.md",
     "자바스크립트 웹 개발 오리엔테이션.md",
     "Pasted image 20240717210050.png",
     "Pasted image 20240717205732.png",
