@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "a90772a7dcafb6d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "36400cfe96065913",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "593f8fae246ec618",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "자바스크립트 웹 개발 오리엔테이션.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be1bb550d148d455",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "웹강의dev.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "58d9af185b047b5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "303df5d3a550010f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ede1e3f2a03295f7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "08d4c5d697e7f88c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dc1cd73c36db7abd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "bcbb9870aa55e0cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1b119fd293834a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e33781d6386a38e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "웹강의dev.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "94480b53d7e578a5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "웹강의dev.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2489fba4d2f7e4db",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "b4c59036a040d64c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "웹강의dev.md"
+              }
+            }
+          },
+          {
+            "id": "2cd431dd5494c4e4",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 368.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "be1bb550d148d455",
+  "lastOpenFiles": [
+    "자바스크립트 웹 개발 오리엔테이션.md",
+    "웹강의dev.md",
+    "Pasted image 20240717210050.png",
+    "Pasted image 20240717205732.png",
+    "Untitled mindmap.md",
+    "Untitled 1.md",
+    "웹강의.md",
+    "웹강의/dist/theme/fonts/source-sans-pro/source-sans-pro.css",
+    "웹강의/dist/theme/fonts/source-sans-pro/source-sans-pro-semibolditalic.woff",
+    "웹강의/dist/theme/fonts/source-sans-pro/source-sans-pro-semibolditalic.ttf",
+    "웹강의/dist/theme/fonts/source-sans-pro/source-sans-pro-semibolditalic.eot",
+    "웹강의/dist/theme/fonts/source-sans-pro/source-sans-pro-semibold.woff",
+    "웹강의/dist/theme/fonts/source-sans-pro/source-sans-pro-semibold.ttf",
+    "웹강의/dist/theme/fonts/source-sans-pro/source-sans-pro-semibold.eot",
+    "웹강의/dist/theme/fonts/source-sans-pro/source-sans-pro-regular.woff",
+    "웹강의/dist/theme/fonts/source-sans-pro/source-sans-pro-regular.ttf",
+    "웹강의/dist/theme/fonts/source-sans-pro/source-sans-pro-regular.eot",
+    "웹강의 Dup.md",
+    "2024-07-15.md",
+    "Untitled.canvas",
+    "웹 강의.md",
+    "ewifjweijf.md",
+    "oohju.jpg"
+  ]
+}
