@@ -28,17 +28,14 @@
 - Next.js 추가기능 개발
 
 ## 강의 목표
-- 자바스크립트 언어로 풀스택 개발을 수행할 수 있도록 한다.
-- 프로그래밍의 기초와 제반 사항을 학습한다.
-- 개발 환경 전반을 이해하여 향후 스스로 학습할 수 있는 상태를 도모 한다.
-- 종합적인 이해를 통해 독립적으로 프로젝트를 진행할 수 있는 역량을 키운다.
+- 스스로 학습을 지속 할 수 있는 상태
 
 ![IT WordCloud](./IT_circle_wordcloud.png)
 ![AI시대의 학습](https://media.licdn.com/dms/image/D5612AQGvZzUSfk-NnA/article-cover_image-shrink_720_1280/0/1675286537360?e=2147483647&v=beta&t=zsXfMAE9NTIlefG5JxNb-RGpvcMiQFd6ESJ8yjLR290)
 ![더닝-크루거효과](https://understandinginnovation.blog/wp-content/uploads/2015/06/dunning-kruger-0011.jpg)
 
 
-## 학습 환경 구축
+## 학습 환경 구성
 
 ### 1. Visual Studio Code 설치
 1. [Visual Studio Code 공식 사이트](https://code.visualstudio.com/)로 이동합니다.

@@ -26,12 +26,25 @@
               "type": "markdown",
               "state": {
                 "file": "강의자료.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d85e78d4e17f884",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tmp.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "강의자료.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "강의자료.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "강의자료.md"
               }
             }
           },
@@ -167,11 +180,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "be1bb550d148d455",
+  "active": "345c062113d1c435",
   "lastOpenFiles": [
-    "IT_circle_wordcloud.png",
-    "강의자료.md",
     "README.md",
+    "강의자료.md",
+    "강의자료.pdf",
+    "tmp.md",
+    "IT_circle_wordcloud.png",
     "자바스크립트 웹 개발 오리엔테이션.md",
     "Pasted image 20240717210050.png",
     "Pasted image 20240717205732.png",
@@ -187,7 +202,6 @@
     "웹강의/dist/theme/fonts/source-sans-pro/source-sans-pro-semibold.eot",
     "웹강의/dist/theme/fonts/source-sans-pro/source-sans-pro-regular.woff",
     "웹강의/dist/theme/fonts/source-sans-pro/source-sans-pro-regular.ttf",
-    "웹강의/dist/theme/fonts/source-sans-pro/source-sans-pro-regular.eot",
     "웹강의 Dup.md",
     "2024-07-15.md",
     "Untitled.canvas",
