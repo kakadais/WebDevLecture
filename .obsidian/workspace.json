@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "강의자료.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tmp.md",
+                "file": "JS 객체지향 예제.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"\\\"#### 예제 (JavaScript):\"\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -182,10 +183,10 @@
   },
   "active": "345c062113d1c435",
   "lastOpenFiles": [
-    "README.md",
+    "JS 객체지향 예제.md",
     "강의자료.md",
+    "README.md",
     "강의자료.pdf",
-    "tmp.md",
     "IT_circle_wordcloud.png",
     "자바스크립트 웹 개발 오리엔테이션.md",
     "Pasted image 20240717210050.png",
