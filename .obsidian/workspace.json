@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "5827c652240ba847",
+        "id": "36400cfe96065913",
         "type": "tabs",
         "children": [
           {
-            "id": "869c7f20be0fe562",
+            "id": "be1bb550d148d455",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강의자료.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e53d93712158afa7",
+            "id": "345c062113d1c435",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -157,7 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 225.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,14 +169,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e53d93712158afa7",
+  "active": "345c062113d1c435",
   "lastOpenFiles": [
-    "test.js.md",
+    "JS 비교연산자.md",
+    "Untitled 1.md",
     "Untitled.md",
-    "강의자료.md",
-    "test.md",
-    "README.md",
+    "test.js.md",
     "Untitled.canvas",
+    "test.md",
+    "JS 객체지향 예제.md",
+    "강의자료.md",
+    "README.md",
     "강의자료.pdf",
     "IT_circle_wordcloud.png",
     "자바스크립트 웹 개발 오리엔테이션.md",
