@@ -20,6 +20,40 @@
             }
           },
           {
+            "id": "5648e0f46922fd62",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
+          },
+          {
+            "id": "40b7ff55b116709f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "baf6e9139573ffcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c933fec5cbe09a2a",
             "type": "leaf",
             "state": {
@@ -170,11 +204,13 @@
   },
   "active": "869c7f20be0fe562",
   "lastOpenFiles": [
-    "강의자료.pdf",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "강의자료.md",
     "JS 비교연산자.md",
+    "강의자료.pdf",
     "Untitled.md",
     "Untitled.canvas",
-    "강의자료.md",
     "test.md",
     "test.js.md",
     "README.md",
