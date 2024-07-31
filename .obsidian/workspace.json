@@ -4,62 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "5827c652240ba847",
+        "id": "36400cfe96065913",
         "type": "tabs",
         "children": [
           {
-            "id": "869c7f20be0fe562",
+            "id": "be1bb550d148d455",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "강의자료.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "5648e0f46922fd62",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
-          },
-          {
-            "id": "40b7ff55b116709f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "baf6e9139573ffcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c933fec5cbe09a2a",
+            "id": "345c062113d1c435",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "JS 비교연산자.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d684de009a495b00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "정답.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,7 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 225.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,18 +180,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "869c7f20be0fe562",
+  "active": "be1bb550d148d455",
   "lastOpenFiles": [
     "Untitled 2.md",
     "Untitled 1.md",
-    "강의자료.md",
     "JS 비교연산자.md",
-    "강의자료.pdf",
-    "Untitled.md",
+    "정답.md",
+    "강의자료.md",
     "Untitled.canvas",
-    "test.md",
-    "test.js.md",
     "README.md",
+    "test.md",
+    "Untitled.md",
+    "JS 객체지향 예제.md",
+    "강의자료.pdf",
     "IT_circle_wordcloud.png",
     "자바스크립트 웹 개발 오리엔테이션.md",
     "Pasted image 20240717210050.png",
